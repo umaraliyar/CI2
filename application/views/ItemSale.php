@@ -178,7 +178,7 @@ color:#FF0000;
             
 
             <div class="pure-g-r">
-                <div class="pure-u-1-5">
+                <div class="pure-u-1">
                     <label>Item Code</label>
                     
                     <select class="pure-input-medium">
@@ -189,19 +189,21 @@ color:#FF0000;
                         <option>NY-123-456</option>
                     </select>
                 </div>
-                <div class="pure-u-1-5">
+              </div>
+              <div class="pure-g-r">  
+                <div class="pure-u-1-4">
                     <label>Qty</label>
                     <input type="text">
                 </div>
-                <div class="pure-u-1-5">
+                <div class="pure-u-1-4">
                     <label>Unit Price</label>
                     <input type="text" required>
                 </div>
-                <div class="pure-u-1-5">
+                <div class="pure-u-1-4">
                     <label>Total</label>
                     <input type="text">
                 </div>
-                <div class="pure-u-1-5">
+                <div class="pure-u-1-4">
                     <label>Tax</label>
                     <select class="pure-input-medium">
                         <option>AL</option>
