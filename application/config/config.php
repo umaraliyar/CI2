@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/test2/j/';
+$config['base_url']	= 'http://localhost/j/';
 
 /*
 |--------------------------------------------------------------------------
